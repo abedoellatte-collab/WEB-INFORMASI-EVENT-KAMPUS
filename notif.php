@@ -12,7 +12,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <div class="container">
-        <a class="navbar-brand" href="home.html">Event Kampus</a>
+        <a class="navbar-brand" href="home.php">Event Kampus</a>
 
         <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#nav">
             <span class="navbar-toggler-icon"></span>
@@ -20,9 +20,9 @@
 
         <div id="nav" class="collapse navbar-collapse">
             <ul class="navbar-nav ms-auto">
-                <li class="nav-item"><a class="nav-link" href="events.html">Event</a></li>
-                <li class="nav-item"><a class="nav-link active" href="notif.html">Notifikasi</a></li>
-                <li class="nav-item"><a class="nav-link" href="profile.html">Profil</a></li>
+                <li class="nav-item"><a class="nav-link" href="events.php">Event</a></li>
+                <li class="nav-item"><a class="nav-link active" href="notif.php">Notifikasi</a></li>
+                <li class="nav-item"><a class="nav-link" href="profile.php">Profil</a></li>
             </ul>
         </div>
     </div>

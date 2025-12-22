@@ -27,8 +27,8 @@
 
         <!-- TOMBOL -->
         <div class="d-grid gap-2 col-6 mx-auto">
-            <a href="login.html" class="btn btn-primary btn-lg">Login</a>
-            <a href="register.html" class="btn btn-outline-primary btn-lg">Sign Up</a>
+            <a href="login.php" class="btn btn-primary btn-lg">Login</a>
+            <a href="register.php" class="btn btn-outline-primary btn-lg">Sign Up</a>
         </div>
 
     </div>

@@ -35,10 +35,10 @@
                 <input type="password" class="form-control" required>
             </div>
 
-            <a href="login.html" class="btn btn-primary w-100">Register</a>
+            <a href="login.php" class="btn btn-primary w-100">Register</a>
 
             <div class="text-center mt-3">
-                <a href="login.html">Sudah punya akun?</a>
+                <a href="login.php">Sudah punya akun?</a>
             </div>
         </form>
     </div>

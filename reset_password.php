@@ -34,7 +34,7 @@
             <button class="btn btn-primary w-100">Reset Password</button>
 
             <p class="text-center mt-3">
-                <a href="login.html">Kembali ke Login</a>
+                <a href="login.php">Kembali ke Login</a>
             </p>
 
         </form>

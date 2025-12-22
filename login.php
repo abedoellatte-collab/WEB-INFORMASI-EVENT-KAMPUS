@@ -26,11 +26,11 @@
                 <input type="password" class="form-control" required>
             </div>
 
-            <a href="home.html" class="btn btn-primary w-100">Login</a>
+            <a href="home.php" class="btn btn-primary w-100">Login</a>
 
             <div class="text-center mt-3">
-                <a href="register.html">Daftar</a> |
-                <a href="reset_password.html">Lupa Password?</a>
+                <a href="register.php">Daftar</a> |
+                <a href="reset_password.php">Lupa Password?</a>
             </div>
         </form>
     </div>

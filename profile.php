@@ -11,7 +11,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <div class="container">
-        <a class="navbar-brand" href="index.html">Event Kampus</a>
+        <a class="navbar-brand" href="index.php">Event Kampus</a>
 
         <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#nav">
             <span class="navbar-toggler-icon"></span>
@@ -19,9 +19,9 @@
 
         <div id="nav" class="collapse navbar-collapse">
             <ul class="navbar-nav ms-auto">
-                <li class="nav-item"><a class="nav-link" href="events.html">Event</a></li>
-                <li class="nav-item"><a class="nav-link" href="notif.html">Notifikasi</a></li>
-                <li class="nav-item"><a class="nav-link active" href="profile.html">Profil</a></li>
+                <li class="nav-item"><a class="nav-link" href="events.php">Event</a></li>
+                <li class="nav-item"><a class="nav-link" href="notif.php">Notifikasi</a></li>
+                <li class="nav-item"><a class="nav-link active" href="profile.php">Profil</a></li>
             </ul>
         </div>
     </div>
@@ -36,7 +36,7 @@
             <p class="text-muted">email@example.com</p>
         </div>
 
-        <a href="login.html" class="btn btn-danger mt-3 w-100">Logout</a>
+        <a href="login.php" class="btn btn-danger mt-3 w-100">Logout</a>
     </div>
 
 </div>
