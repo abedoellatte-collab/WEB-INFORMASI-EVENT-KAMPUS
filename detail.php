@@ -1,7 +1,6 @@
 <?php
 include 'db.php';
 
-// Cek ID
 if (!isset($_GET['id'])) {
     header("Location: index.php");
     exit;
@@ -11,7 +10,6 @@ $id = mysqli_real_escape_string($conn, $_GET['id']);
 $query = mysqli_query($conn, "SELECT * FROM events WHERE id = '$id'");
 $data = mysqli_fetch_assoc($query);
 
-// Jika data tidak ditemukan
 if (!$data) {
     echo "<script>alert('Event tidak ditemukan!'); window.location='index.php';</script>";
     exit;
