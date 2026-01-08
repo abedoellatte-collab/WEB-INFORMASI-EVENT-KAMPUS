@@ -1,7 +1,6 @@
 <?php
 include 'db.php';
 
-// Ganti username dan password sesuai kebutuhan
 $username = 'abdul';
 $password_baru = 'abdul123';
 
