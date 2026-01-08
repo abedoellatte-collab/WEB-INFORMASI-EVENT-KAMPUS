@@ -42,7 +42,6 @@ if (!$data) {
             font-family: 'Poppins', sans-serif;
         }
 
-        /* Navbar (Sama dengan Index) */
         .navbar {
             background-color: rgba(18, 18, 18, 0.95);
             border-bottom: 1px solid #333;
@@ -53,7 +52,6 @@ if (!$data) {
             letter-spacing: 1px;
         }
 
-        /* Tombol & Link */
         .btn-outline-fantasy {
             color: var(--primary-green);
             border: 1px solid var(--primary-green);
